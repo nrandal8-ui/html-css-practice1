@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <title>Join a social network</title>
+   <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+   <h1>Join a social network</h1>
+   
+   <!-- TODO: Add the form here -->
+   <form action="https://wp.zybooks.com/form-viewer.php" method="post" enctype="multipart/form-data">
+   
+
+   <!-- full name -->
+   <div>
+      <label for="fullName">Full name:</label>
+      <input type="text" id="fullName" name="fullName" required>
+   </div>
+   <!-- email -->
+   <div>
+      <label for="email">Email address:</label>
+      <input type="text" id="email" name="email" required>
+   </div>
+   <!-- about you -->
+   <div>
+      <label for="about">About you:</label>
+      <textarea id="about" name="about" rows="3" cols="50"></textarea>
+   </div>
+   <!-- Photo -->
+   <div>
+      <label for=picture>Photo:</label>
+      <input type="file" id="picture" name="picture">
+   </div>
+   <!-- Submit -->
+   <div>
+      <input type="submit" value="Submit">
+   </div>
+   </form>      
+</body>
+
+</html>
