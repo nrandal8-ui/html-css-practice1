@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+   <meta charset="UTF-8">
+   <title>Landover Maryland</title><
+   
+   </head>
+
+<body>
+   <h1>Landover Maryland</h1>
+
+   <section>
+   <h2>Location</h2>
+      <p>Landover is located in Prince George’s County, Maryland, just outside of Washington, D.C. It is surrounded by major
+      highways like U.S. Route 50 and Interstate 495, making it easy to travel to nearby cities.</p>
+   </section>  
+
+   <section>
+   <h2>About</h2>
+   
+      <section>
+         <h3>Community</h3>
+            <p>Landover is a diverse suburban community loacted near Washington, D.C..</p>
+      </section>
+
+      <section>
+         <h3>Lifestyle</h3>
+            <p>Residents enjoy a mix of subirban living with access to urban amenitites nearby.</p>
+      </section>
+
+   <section>
+         <h3>History</h3>
+            <p>Landover has grown over the years as part of Prince George's County, developing into a residential and commercial area near the nation's capital.</p> 
+   </section>
+</section>
+
+   <section>
+   <h2>Things to do</h2>
+      <ul>
+         <li>Attend a football game at FedExField</li>
+         <li>Visit Washington, D.C. Attractions</li>
+         <li>Sightsee at the wharf and enjoy fresh fish</li>
+      </ul>
+   </section>
+   </body>      
+         
